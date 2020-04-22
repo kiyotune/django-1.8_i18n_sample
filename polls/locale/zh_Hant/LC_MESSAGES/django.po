@@ -20,7 +20,4 @@ msgstr ""
 
 #: polls/templates/polls/index.html:16
 msgid "Hello from Osaka"
-msgstr "大阪からこんにちは"
-
-#~ msgid "Hello World"
-#~ msgstr "こんにちは"
+msgstr "你好從大阪"
