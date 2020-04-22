@@ -53,7 +53,7 @@ MIDDLEWARE_CLASSES = (
 )
 
 LOCALE_PATHS = (
-		os.path.join.(BASE_DIR, 'locale'),
+		os.path.join(BASE_DIR, 'locale'),
 )
 
 ROOT_URLCONF = 'mysite.urls'
